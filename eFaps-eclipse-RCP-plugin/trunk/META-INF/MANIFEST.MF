@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: eFaps RCP plugin
+Bundle-SymbolicName: org.efaps.rcp;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: The eFaps Team
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: .,
+ lib/
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.6.0"
